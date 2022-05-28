@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SCARLAT27122015
 - 👀 I’m interested in developing my knowledge in data analytics, frontend development and data engineering.
-- 🌱 I’m currently working on getting my Tableau Desktop Specialist Certification,
-- 💞️ I’m looking to collaborate on data engineering (want to start a career)/data analytics projects.
+- 🌱 I’m currently working on getting my Tableau Desktop Specialist Certification and in a HR analytics course based on Python.
+- 💞️ I’m looking to collaborate on data automation, data analytics and data engineering (want to start a career) projects.
 - 📫 How to reach me via whatsapp at +52 2228652453, via email at isra.devmhd@gmail.com or via LinkedIn at https://www.linkedin.com/in/jes%C3%BAs-israel-gonz%C3%A1lez-garc%C3%ADa-760808146
 
 <!---
